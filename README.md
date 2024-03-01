@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Hazem Hadi Allbabidi**. I am a Software Engineer with experience in Laravel, Vue JS, Nuxt JS, Linux, and more.
+
+You can check out my portfolio at [https://hazemhadi.com/](https://hazemhadi.com/). 
+
+You can also check out my blog at [https://hazemhadi.com/articles/](https://hazemhadi.com/articles/).
+
+I also have a knowledge base where I store all of the various things I have learned from different courses, books, and other forms of content, check it out here: [https://brain.hazemhadi.com/](https://brain.hazemhadi.com/).
